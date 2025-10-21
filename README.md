@@ -1,7 +1,3 @@
-This project is not actively maintained. Consider these alternatives:
-- https://github.com/nlordell/solabi-rs
-- https://github.com/alloy-rs/core
-
 # ethabi
 
 The ABI, Application Binary Interface, is basically how you call functions in a contract and get data back.
